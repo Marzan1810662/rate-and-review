@@ -12,7 +12,7 @@ const Blogs = () => {
             </div>
             <div className='qna-div'>
                 <h4>Q2. What is Semantic Tag?</h4>
-                <p></p>
+                <p>Semantic HTML elements are those that represent their meaning in a way that is both human and machine readable. Tags such as "div" and "span" aren't semantic because they provide no information about the content. However, there are various semantic components in HTML that can be used to designate different areas of a web page. "header" refers to the website's header area, whereas "nav" refers to the page's navigation section, which allows us to reach other portions of the page, among other things. When semantic tags are used in code, it becomes easier to read and understand. Overall, semantic elements result in more consistent code.</p>
             </div>
         </div>
         </div>
