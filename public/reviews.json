@@ -2,101 +2,101 @@
   {
     "_id": "6249e3594f32d2f5ac4fe1a4",
     "index": 0,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Mathews Lopez",
     "email": "mathewslopez@assitia.com",
     "address": "652 Orange Street, Veyo, Illinois, 7832",
-    "review": "I love this laptop. The OLED screen is great if you have issues with flickering light or led induced headaches like I do. THOUGH they don't mention anywhere that the pen needs a battery. So, yeah, the back of the pen comes off and needs a battery to work, there you go.",
+    "review_text": "I love this laptop. The OLED screen is great if you have issues with flickering light or led induced headaches like I do. THOUGH they don't mention anywhere that the pen needs a battery. So, yeah, the back of the pen comes off and needs a battery to work, there you go.",
     "rating": 4
   },
   {
     "_id": "6249e359d3fe5caefdd35f20",
     "index": 1,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Rosie Padilla",
     "email": "rosiepadilla@assitia.com",
     "address": "557 Frank Court, Thomasville, Vermont, 2257",
-    "review": "The display is amazing. The machine is fast but with only 16GB RAM it can't be used for creative work.",
-    "rating": 3
+    "review_text": "Got this back in April, now it's December. I still love love it. Haven't had any problems. I am in love with this computer. I went from having a heavy and bulky laptop to this and it is great! So much desk space! It's easy to pick up and move with one hand and a coffee in the other. The video quality is good. I am using it for teaching on video and it has been great so far. .",
+    "rating": 5
   },
   {
     "_id": "6249e359c10ff4486042d170",
     "index": 2,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Stone Parks",
     "email": "stoneparks@assitia.com",
     "address": "815 McKinley Avenue, Templeton, Virginia, 1371",
-    "review": "It is very nice. Very fast due to i7, ssd and a decent Amount of memory. Light and compact. Touch pen is magnetic to a couple of spots back of screen.. this will get lost eventually. Power button does not give a response click, so, you are not sure you turned it on. Purchases blue tooth mouse and i was up and running..",
+    "review_text": "It is very nice. Very fast due to i7, ssd and a decent Amount of memory. Light and compact. Touch pen is magnetic to a couple of spots back of screen.. this will get lost eventually. Power button does not give a response click, so, you are not sure you turned it on. Purchases blue tooth mouse and i was up and running..",
     "rating": 4
   },
   {
     "_id": "6249e3591e6d6752ab39c495",
     "index": 3,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Moon Potter",
     "email": "moonpotter@assitia.com",
     "address": "185 Caton Place, Beechmont, Colorado, 3789",
-    "review": "I haven't bought a laptop in a few years, and i'm blown away with this laptop! I've always thought having a 2-in-1 would be a gimmick, but i'm actually using the touchscreen a ton. Having a stylus is a huge bonus. Additionally, this laptop is grat and compact. Cannot recommend this laptop enough!",
+    "review_text": "I haven't bought a laptop in a few years, and i'm blown away with this laptop! I've always thought having a 2-in-1 would be a gimmick, but i'm actually using the touchscreen a ton. Having a stylus is a huge bonus. Additionally, this laptop is grat and compact. Cannot recommend this laptop enough!",
     "rating": 5
   },
   {
     "_id": "6249e359f51c54e4289dda26",
     "index": 4,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Doreen Hale",
     "email": "doreenhale@assitia.com",
     "address": "841 Columbus Place, Jardine, West Virginia, 4969",
-    "review": "Had a lot of expectations but so disappointed.Number pad on touch pad seems like a neat idea but, even when uninstalled in Device Manager, manages to re-install during updates. Sent first Asus I received back because of these issues -- thought I got a lemon. Replacement has same issues. Asus says nothing is wrong with the computer--my complaints are unusual. High priced piece of junk. To add insult, you must pay shipping for repair, even if the item is in warranty.",
+    "review_text": "Had a lot of expectations but so disappointed.Number pad on touch pad seems like a neat idea but, even when uninstalled in Device Manager, manages to re-install during updates. Sent first Asus I received back because of these issues -- thought I got a lemon. Replacement has same issues. Asus says nothing is wrong with the computer--my complaints are unusual. High priced piece of junk. To add insult, you must pay shipping for repair, even if the item is in warranty.",
     "rating": 0
   },
   {
     "_id": "6249e3598a5635c7c8d0c262",
     "index": 5,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Maura Woodard",
     "email": "maurawoodard@assitia.com",
     "address": "162 Coles Street, Farmington, Arizona, 3349",
-    "review": "I needed the laptop for school and work which it does very well. One think that really made me appreciate the flip part of the laptop how it fit on the fold out table on a plane. It wouldnt have worked to view the screen properly because if the person in front of you leaned back in the chair it would contact the screen. Thankfully that not a problem if you flip it over. The OLED screen looks amazing and Ive had no issues having to do any work on it. I gave one less star for the touch screen as the pen doesnt exactly glide across the screen, otherwise its exactly what I needed.",
+    "review_text": "I needed the laptop for school and work which it does very well. One think that really made me appreciate the flip part of the laptop how it fit on the fold out table on a plane. It wouldnt have worked to view the screen properly because if the person in front of you leaned back in the chair it would contact the screen. Thankfully that not a problem if you flip it over. The OLED screen looks amazing and Ive had no issues having to do any work on it. I gave one less star for the touch screen as the pen doesnt exactly glide across the screen, otherwise its exactly what I needed.",
     "rating": 4
   },
   {
     "_id": "6249e359e234e0229463958e",
     "index": 6,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Ayala Ramos",
     "email": "ayalaramos@assitia.com",
     "address": "830 Elm Avenue, Basye, Iowa, 3136",
-    "review": "Got this back in April, now it's December. I still love love it. Haven't had any problems. I am in love with this computer. I went from having a heavy and bulky laptop to this and it is great! So much desk space! It's easy to pick up and move with one hand and a coffee in the other. The video quality is good. I am using it for teaching on video and it has been great so far. .",
-    "rating": 5
+    "review_text": "The display is amazing. The machine is fast but with only 16GB RAM it can't be used for creative work.",
+    "rating": 3
   },
   {
     "_id": "6249e359e222fa6e3d2f6f13",
     "index": 7,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Dixon Shannon",
     "email": "dixonshannon@assitia.com",
     "address": "293 Baycliff Terrace, Springville, Ohio, 8215",
-    "review": "The Tigerlake processors are already well known to run extremely hot. On top of that, Asus should have seen this issue comming or at least pushed the issue with Intel before releasing this product. If we are taking heat into consideration, this laptop seriously not worthy of being referred to as a laptop. Key word of advice, add a tool to allow users to limit the amount of heat this laptop produces in exchange for some performance to prevent tables from melting",
+    "review_text": "The Tigerlake processors are already well known to run extremely hot. On top of that, Asus should have seen this issue comming or at least pushed the issue with Intel before releasing this product. If we are taking heat into consideration, this laptop seriously not worthy of being referred to as a laptop. Key word of advice, add a tool to allow users to limit the amount of heat this laptop produces in exchange for some performance to prevent tables from melting",
     "rating": 1
   },
   {
     "_id": "6249e359ada2e7a3a3f36076",
     "index": 8,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Owens Trujillo",
     "email": "owenstrujillo@assitia.com",
     "address": "818 Stockholm Street, Kingstowne, Nebraska, 8316",
-    "review": "I have owned ASUS laptops for years, and I want to continue liking them, but it’s getting challenging. Each year the quality seems to decrease while the cost increases. This laptop gets really hot on the bottom. I end up sitting it on a chill pad if I have it in my lap.Not so impressed",
+    "review_text": "I have owned ASUS laptops for years, and I want to continue liking them, but it’s getting challenging. Each year the quality seems to decrease while the cost increases. This laptop gets really hot on the bottom. I end up sitting it on a chill pad if I have it in my lap.Not so impressed",
     "rating": 2
   },
   {
     "_id": "6249e359e608a03fc368fcb2",
     "index": 9,
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "name": "Courtney Noel",
     "email": "courtneynoel@assitia.com",
     "address": "994 Hegeman Avenue, Salix, Michigan, 5314",
-    "review": "The lid sits a little too tight and there is a lack of any real lip that would make opening this laptop easier. Add the lip on the next gen.But overall very happy with the laptop.",
+    "review_text": "The lid sits a little too tight and there is a lack of any real lip that would make opening this laptop easier. Add the lip on the next gen.But overall very happy with the laptop.",
     "rating": 3
   }
 ]
