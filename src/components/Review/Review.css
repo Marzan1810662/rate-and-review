@@ -4,9 +4,19 @@
     width: 25%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 20px;
+    position: relative;
 }
 .review img{
     border-radius: 30px;
+}
+.review h6{
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+    text-align: center;
+}
+.star-icon{
+    color: orange;
 }
 @media screen and (max-width: 576px) {
     .review{
