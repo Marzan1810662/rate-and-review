@@ -8,13 +8,13 @@
 .hero-section-btn{
     width: 25%;
 }
+
 @media screen and (max-width: 576px) {
 
     .hero-section-title,
     .hero-section-img {
         width: 100%;
     }
-
     .title {
         font-size: 25px;
     }

@@ -4,7 +4,7 @@ import './Home.css'
 
 const Home = () => {
     return (
-        <div className='container d-md-flex flex-md-row hero-section'>
+        <div className='container d-flex flex-column-reverse flex-md-row align-items-center  hero-section'>
             <div className='mt-md-5 hero-section-title'>
                 <h1 className='mb-3 fw-bold title'>Spend Wisely and Get The Best!</h1>
                 <p className='mb-2 pb-2 mb-md-4 pb-md-4'>
