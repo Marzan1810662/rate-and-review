@@ -15,7 +15,7 @@ const Home = () => {
 
     return (
         <div>
-            <div className='container d-flex flex-column-reverse flex-md-row align-items-center'>
+            <div className='container-md d-flex flex-column-reverse flex-md-row align-items-center'>
                 <div className='mt-md-5 hero-section-title'>
                     <h1 className='mb-3 fw-bold title'>Spend Wisely and Get The Best!</h1>
                     <p className='mb-2 pb-2 mb-md-4 pb-md-4'>
@@ -32,7 +32,7 @@ const Home = () => {
             </div>
             <div className='mb-3 pb-2'>
                 <h2 className='customer-review-title'>Customer reviews</h2>
-                <div className='d-flex flex-column flex-md-row justify-content-md-evenly my-4 pt-3'>
+                <div className='d-flex flex-column flex-md-row justify-content-md-evenly my-4 pt-3 px-4'>
                 {
                     reviews.length > 3 ? reviews.slice(0, 3).map(review => <Review key={review._id} review={review}></Review>) : reviews.map(review => <Review key={review._id} review={review}></Review>)
                 }
