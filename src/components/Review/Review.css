@@ -5,9 +5,17 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 20px;
 }
+.review img{
+    border-radius: 30px;
+}
 @media screen and (max-width: 576px) {
     .review{
         width: 100%;
         margin: 10px 0;
+    }
+}
+@media screen and (min-width: 576px) and (max-width:992px){
+    .review{
+        width: 40%;
     }
 }
