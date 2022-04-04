@@ -1,0 +1,24 @@
+.about-us-title{
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+.mission-div,.vision-div{
+    border: 1px solid rgba(230, 229, 229, 0.719);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 48%;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+@media screen and (max-width:576px) {
+    .mission-div,.vision-div{
+        width: 95%;
+    }
+}
+@media screen and (min-width: 576px) and (max-width:992px) {
+    .mission-div,.vision-div{
+        width: 100%;
+    }
+}
