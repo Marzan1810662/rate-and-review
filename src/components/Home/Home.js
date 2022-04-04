@@ -6,7 +6,7 @@ import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
     const navigate = useNavigate();
     const handleSeeAllReviews = () => {
         const path = '/reviews';
@@ -21,7 +21,9 @@ const Home = () => {
                     <p className='mb-2 pb-2 mb-md-4 pb-md-4'>
                         The ZenBook Flip 13 OLED is distinguished by its all-new design, which blends extreme portability with unparalleled versatility. ZenBook Flip 13 OLED is especially compact thanks to its elegant NanoEdge FHD OLED display and 360° ErgoLift hinge, and the super-slim 13.9 mm chassis stores a wide range of I/O ports for convenient connectivity. Its Intel® CoreTM CPU allows for effortless productivity and visual creativity while on the go. The ZenBook Flip 13 OLED is a versatile and powerful all-arounder that's ideal for work or play.
                     </p>
-                    <Button className='hero-section-btn' variant="outline-dark" size="lg">Live Demo</Button>
+                    <Button className='hero-section-btn' variant="outline-dark" size="lg">
+                        <a  href="https://www.asus.com/us/Laptops/For-Home/Zenbook/Zenbook-Flip-13-OLED-UX363-11th-Gen-Intel/" rel='noreferrer' target={'_blank'}>Live Demo</a>
+                    </Button>
                 </div>
                 <div className='hero-section-img'>
                     <div>
@@ -33,9 +35,9 @@ const Home = () => {
             <div className='mb-3 pb-2'>
                 <h2 className='customer-review-title'>Customer reviews</h2>
                 <div className='d-flex flex-column flex-md-row justify-content-md-evenly my-4 pt-3 px-4'>
-                {
-                    reviews.length > 3 ? reviews.slice(0, 3).map(review => <Review key={review._id} review={review}></Review>) : reviews.map(review => <Review key={review._id} review={review}></Review>)
-                }
+                    {
+                        reviews.length > 3 ? reviews.slice(0, 3).map(review => <Review key={review._id} review={review}></Review>) : reviews.map(review => <Review key={review._id} review={review}></Review>)
+                    }
                 </div>
                 <button className='see-all-reviews-btn' onClick={handleSeeAllReviews}>See All Reviews</button>
             </div>
