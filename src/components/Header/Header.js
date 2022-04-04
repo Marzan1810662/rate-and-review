@@ -11,8 +11,8 @@ const Header = () => {
                     <Navbar.Brand className='fw-bolder fs-2 text-secondary' as={NavLink} to="/">Rate & Review</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
-                        <Nav className="mx-auto">
-                            <Nav.Link className='fs-5 fw-bold ms-5' as={NavLink} to="/home">Home</Nav.Link>
+                        <Nav className="mx-auto nav-bar">
+                            <Nav.Link className='fs-5 fw-bold ms-5' as={NavLink} to="/">Home</Nav.Link>
                             <Nav.Link className='fs-5 fw-bold ms-5' as={NavLink} to="/reviews">Reviews</Nav.Link>
                             <Nav.Link className='fs-5 fw-bold ms-5' as={NavLink} to="/dashboard">Dashboard</Nav.Link>
                             <Nav.Link className='fs-5 fw-bold ms-5' as={NavLink} to="/blogs">Blogs</Nav.Link>
