@@ -9,11 +9,18 @@
 .review img{
     border-radius: 30px;
 }
-.review h6{
+
+.review .ratings{
     position: absolute;
     bottom: 0;
-    left: 40%;
+    left: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: whitesmoke;
     text-align: center;
+    width: 100%;
+    padding: 5px 0;
+    
 }
 .star-icon{
     color: orange;
